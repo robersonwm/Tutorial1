@@ -1,0 +1,21 @@
+{
+"Login":{
+"role": "AKDADM",
+"Nombre": "sasdemo",
+"info": {
+"sede": [
+{
+"IdCia": "AKDSEDE18",
+"NomSede": "TYCHE GLOBAL CORP."
+},
+{
+"IdCia": "AKDSEDE21",
+"NomSede": "AKD INTERNATIONAL PANAMA CORP."
+}
+]
+}
+}
+
+
+
+}
